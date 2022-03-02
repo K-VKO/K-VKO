@@ -1,16 +1,34 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Kostia 👋
+</h3>
 
-<!--
-**K-VKO/K-VKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Junior iOS Developer 📱
+</h2> 
 
-Here are some ideas to get you started:
+I love the challenge of developing new apps and spending time-solving different problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me: <a href="https://www.linkedin.com/in/konstantin-voronenko/"> <br>
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="" width="21px"/></a>
+</br>
+
+## 🔭 I'm currently working on
+
+- Noname-shop app
+
+## 🌱 I'm currently learning
+
+- RxSwift  
+
+## 💼 Technical Skills
+
+XCode (Storyboard, Xib, Code) <br>
+Swift<br>
+UIKit<br>
+Core Data<br>
+GCD<br>
+URLSession<br>
+Codable<br>
+MVC/MVVM/Singleton<br>
+SOLID<br>
+OOP<br>
