@@ -14,7 +14,7 @@ I love the challenge of developing new apps and spending time-solving different 
 
 ## 🔭 I'm currently working on
 
-- Noname-shop app
+- Weather App
 
 ## 🌱 I'm currently learning
 
