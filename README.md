@@ -19,6 +19,7 @@ I love the challenge of developing new apps and spending time-solving different 
 ## 🌱 I'm currently learning
 
 - RxSwift  
+- Augmented Reality App Development
 
 ## 💼 Technical Skills
 
