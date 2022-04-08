@@ -29,6 +29,7 @@ Core Data<br>
 GCD<br>
 URLSession<br>
 Codable<br>
-MVC/MVVM/Singleton<br>
+MVC/MVVM/MVP/Singleton<br>
 SOLID<br>
 OOP<br>
+RxSwift/Realm/Alamofire<br>
